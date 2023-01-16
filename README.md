@@ -54,7 +54,5 @@
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   </a>
 </p>
-<hr/>
-![](https://komarev.com/ghpvc/?username=YAbargil&color=blue)
 
 
