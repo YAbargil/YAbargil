@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Yuval Abargil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/YAbargil)"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Autodidact;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/YAbargil"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Autodidact;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">A student currently in 3rd year BSc . I like to Code,Learn, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
@@ -8,7 +8,7 @@
 
 ### 👉 Programming languages
 
-<p align="left"> 
+<p align="justify"> 
   &emsp; 
   <a href="https://github.com/YAbargil" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
@@ -30,8 +30,12 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
   &emsp;
+   <a href="https://github.com/YAbargil" target="_blank">
+    <img alt="Typescript" width="75" height="20" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" >
+  </a>
+  &emsp;
 
-### 👉 Tools
+### 👉 Tools & Frameworks
 <p align="left"> 
   &emsp; 
   <a href="https://github.com/YAbargil" target="_blank"> 
@@ -47,12 +51,22 @@
   </a>
     &emsp;
   <a href="https://github.com/YAbargil" target="_blank"> 
-    <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+    <img alt="Unity" height="24" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   </a>
      &emsp;
   <a href="https://github.com/YAbargil" target="_blank"> 
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+    <img alt="Express.js" height="24" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   </a>
+  &emsp;
+   <a href="https://github.com/YAbargil" target="_blank"> 
+    <img alt="React" height="24" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  </a>
+  &emsp;
+  
+  <a href="https://github.com/YAbargil" target="_blank"> 
+    <img alt=".NET" width="68" height="24" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  </a>
+  &emsp;
 </p>
 
 
