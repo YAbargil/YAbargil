@@ -69,4 +69,5 @@
   &emsp;
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yabargil&layout=compact&hide_progress=true)](https://github.com/YAbargil)
 
